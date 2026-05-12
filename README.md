@@ -1,7 +1,5 @@
 # Unity Tetris
 A classic Tetris game implemented in Unity using C# scripts. This project demonstrates clean code architecture, input handling, tile-based rendering, and game state management.
-Itch io, https://captain-garneto.itch.io/tetris-coursera
-Unity Play, https://play.unity.com/en/games/beea6fba-c7cc-4057-83eb-c0879de89d5a/tetris 
 
 ## Features ✨
 - **Complete Tetris Gameplay**: Piece spawning, movement, rotation, line clearing, and scoring.
@@ -29,6 +27,12 @@ Default key bindings (configurable in Piece component):
 - Game speed increases as your score rises.
 - Beat your high score!
 
+### Web Builds 🌐
+Play Tetris directly in browser:
+
+- [**Itch Games**](https://captain-garneto.itch.io/tetris-coursera)
+- [**Unity Play**](https://play.unity.com/en/games/beea6fba-c7cc-4057-83eb-c0879de89d5a/tetris)
+  
 ## Architecture
 
 ### Core Classes
@@ -59,9 +63,10 @@ Default key bindings (configurable in Piece component):
 
 ## Author 👤
 **Daniel Anthony Rozek**
-- **Portfolio**: [https://crispruby.github.io/](https://crispruby.github.io/)
-- **LinkedIn**: [https://www.linkedin.com/in/danielrozek/](https://www.linkedin.com/in/danielrozek/)
-- **GitHub**: [https://github.com/crispruby](https://github.com/crispruby)
+
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 This project is open-source and available for educational and portfolio purposes.
