@@ -3,7 +3,7 @@ A classic Tetris game implemented in Unity using C# scripts. This project demons
 Itch io, https://captain-garneto.itch.io/tetris-coursera
 Unity Play, https://play.unity.com/en/games/beea6fba-c7cc-4057-83eb-c0879de89d5a/tetris 
 
-## Features
+## Features ✨
 - **Complete Tetris Gameplay**: Piece spawning, movement, rotation, line clearing, and scoring.
 - **Wall-Kick System**: Proper rotation with wall-kick tests for all tetromino types.
 - **Speed Progression**: Game speed increases as score rises.
@@ -14,7 +14,7 @@ Unity Play, https://play.unity.com/en/games/beea6fba-c7cc-4057-83eb-c0879de89d5a
 ## How to Play
 Tetris is a classic puzzle game where you arrange falling tetromino pieces to clear complete lines. The game ends when pieces reach the top of the board.
 
-### Controls
+### Controls 🎮
 Default key bindings (configurable in Piece component):
 - **Rotate Left**: Alpha1 (1)
 - **Rotate Right**: Alpha3 (3)
@@ -44,15 +44,6 @@ Default key bindings (configurable in Piece component):
 - **Performance**: Uses arrays and direct access for fast lookups.
 - **Documentation**: XML comments on public APIs for clarity.
 
-## Controls
-Default key bindings (configurable in Piece component):
-- **Rotate Left**: Alpha1 (1)
-- **Rotate Right**: Alpha3 (3)
-- **Hard Drop**: Up Arrow or Space
-- **Soft Drop**: Down Arrow or Alpha2 (2)
-- **Move Left**: Left Arrow
-- **Move Right**: Right Arrow
-
 ## Setup
 1. Open the project in Unity (tested with Unity 2021+).
 2. Ensure the scene includes a Board GameObject with Tilemap child.
@@ -66,11 +57,11 @@ Default key bindings (configurable in Piece component):
 - **Modularity**: Easy to extend with new tetromino types or features.
 - **No Hard-Coding**: Constants and configurable fields instead of magic numbers.
 
-## Author
+## Author 👤
 **Daniel Anthony Rozek**
 - **Portfolio**: [https://crispruby.github.io/](https://crispruby.github.io/)
 - **LinkedIn**: [https://www.linkedin.com/in/danielrozek/](https://www.linkedin.com/in/danielrozek/)
 - **GitHub**: [https://github.com/crispruby](https://github.com/crispruby)
 
-## License
+## License 📄
 This project is open-source and available for educational and portfolio purposes.
