@@ -70,3 +70,8 @@ Play Tetris directly in browser:
 
 ## License 📄
 This project is open-source and available for educational and portfolio purposes.
+
+## Screenshot Gallery 📸
+
+<img src="images/Tetris.png" width="100%">
+<img src="images/Tetris2.png" width="100%">
